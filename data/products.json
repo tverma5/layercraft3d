@@ -17,5 +17,22 @@
       "category": "Desk Decor"
     }
   ],
-  "girls": []
+  "girls": [
+    {
+      "id": "girl-001",
+      "name": "Ballerina Dance Decorative Showpiece",
+      "description": "An elegant 3D-printed ballerina decorative showpiece with a flowing layered skirt design. A graceful piece for study tables, bedrooms, shelves, dressing areas and special gifting.",
+      "price": 499,
+      "images": [
+        "images/products/ballerina-dancer-decor-1.png",
+        "images/products/ballerina-dancer-decor-2.png",
+        "images/products/ballerina-dancer-decor-3.png"
+      ],
+      "image": "images/products/ballerina-dancer-decor-1.png",
+      "customizable": false,
+      "customizationFields": [],
+      "badge": "New",
+      "category": "Home Decor"
+    }
+  ]
 }
