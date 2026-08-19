@@ -1,0 +1,21 @@
+{
+  "boys": [
+    {
+      "id": "boy-001",
+      "name": "Hulk Fist Pen Holder",
+      "description": "A fun and eye-catching 3D-printed fist-shaped pen holder that adds a playful superhero touch to any study desk. Perfect for holding pens, pencils, markers and other stationery.",
+      "price": 249,
+      "images": [
+        "images/products/hulk-fist-pen-holder-1.png",
+        "images/products/hulk-fist-pen-holder-2.png",
+        "images/products/hulk-fist-pen-holder-3.png"
+      ],
+      "image": "images/products/hulk-fist-pen-holder-1.png",
+      "customizable": false,
+      "customizationFields": [],
+      "badge": "New",
+      "category": "Desk Decor"
+    }
+  ],
+  "girls": []
+}
